@@ -19,6 +19,7 @@
                 <Image Source="pack://application:,,,/ImgResDll;component/ImageFolder/0.png" />
             </Button>
         </GroupBox>
+
         <GroupBox Grid.Row="1" Header="Button with Image Code behind">
             <Button x:Name="Btn0_1" Click="Btn0_1_Click">
                 Click me at once!
