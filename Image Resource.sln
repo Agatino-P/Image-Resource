@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Resource", "Image Resource\Image Resource.csproj", "{60AC852A-5631-4465-96BD-37BB669274F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgResDll", "ImgResDll\ImgResDll.csproj", "{D235C07C-7AA0-490B-A04D-55F0BD5B939A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60AC852A-5631-4465-96BD-37BB669274F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AC852A-5631-4465-96BD-37BB669274F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AC852A-5631-4465-96BD-37BB669274F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AC852A-5631-4465-96BD-37BB669274F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D235C07C-7AA0-490B-A04D-55F0BD5B939A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D235C07C-7AA0-490B-A04D-55F0BD5B939A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D235C07C-7AA0-490B-A04D-55F0BD5B939A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D235C07C-7AA0-490B-A04D-55F0BD5B939A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78CA18C3-D440-4363-8287-49C838DAF281}
+	EndGlobalSection
+EndGlobal
